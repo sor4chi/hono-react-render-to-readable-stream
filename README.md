@@ -1,5 +1,5 @@
 ```
 bun i
-bun build
-bun start
+bun run build
+bun run start
 ```
